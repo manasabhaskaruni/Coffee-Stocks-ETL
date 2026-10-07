@@ -78,6 +78,7 @@ python dashboard.py
 ```
 
 Open the local URL printed in the terminal (by default, <http://127.0.0.1:8050>). Stop the dashboard with **Ctrl+C**.
+![Coffee Stocks ETL Dashboard](docs/image.png)
 
 ## Common commands
 
